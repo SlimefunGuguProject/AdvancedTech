@@ -16,7 +16,7 @@ AdvancedTech，是《我的世界》插件Slimefun的附属。这个插件带来
 下载稳定版: [Here](https://thebusybiscuit.github.io/builds/PranavVerma-droid/AdvancedTech/stable) <br>
 下载最新开发版: [Here](https://thebusybiscuit.github.io/builds/PranavVerma-droid/AdvancedTech/dev)
 
-You can Also Download The Latest STABLE Build from [Modrinth](https://modrinth.com/plugin/advancedtech-slimefun).
+你同时可以从Modrinth平台下载最新的稳定版 [Modrinth](https://modrinth.com/plugin/advancedtech-slimefun)
 # 版本 & 获取支持
 
 https://github.com/PranavVerma-droid/AdvancedTech/wiki#版本支持
