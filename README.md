@@ -1,25 +1,25 @@
-# Advanced Tech
+# 先进科技
 ![AdvancedTech](images/logo.gif)  
 
-Introducing AdvancedTech, an immersive add-on for the popular Minecraft plugin Slimefun. This Addon Brings Exciting New Things Like Handheld Diggers, and, New Solar Panels!
-
-This Addon Revolves Around the Concept of a Command Hub, Where, You Will get Only 6 Positions to Place and Power Your Different Components (Basically Means You can have only 5 Different Machines (One will be taken by the Engine.))
+AdvancedTech，是《我的世界》插件Slimefun的附属。这个插件带来了振奋人心的新事物，如手持挖掘机（没错，就是爆炸镐而已），和新的太阳能电池板！
+这个附属总体围绕着一个指挥中枢的概念，在游玩中，你将只有6个位置来放置和驱动你的不同组件(意味着你只能放置5个不同的机器(一个将被中枢引擎所占用))
 
 # Wiki
-The Official AdvancedTech Wiki: [Here](https://github.com/PranavVerma-droid/AdvancedTech/wiki)
-# Dependencies
-This Addon Needs the Slimefun4 Plugin.
-Download it [Here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)
+先进科技官方wiki: [Here](https://github.com/PranavVerma-droid/AdvancedTech/wiki)
 
-# Downloads
-Addon Can Be Downloaded from The Official Download Pages: <br>
-Download Stable: [Here](https://thebusybiscuit.github.io/builds/PranavVerma-droid/AdvancedTech/stable) <br>
-Download Latest: [Here](https://thebusybiscuit.github.io/builds/PranavVerma-droid/AdvancedTech/dev)
+# 依赖
+本附属需要Slimefun插件作为前置
+[下载路径](https://builds.guizhanss.com/sf-subscription)
 
-You can Also Download The Latest STABLE Build from [Modrinth](https://modrinth.com/plugin/advancedtech-slimefun).
-# Versions & Support
+# 下载
+本插件可以从官方下载页面下载: <br>
+下载稳定版: [Here](https://thebusybiscuit.github.io/builds/PranavVerma-droid/AdvancedTech/stable) <br>
+下载最新开发版: [Here](https://thebusybiscuit.github.io/builds/PranavVerma-droid/AdvancedTech/dev)
 
-https://github.com/PranavVerma-droid/AdvancedTech/wiki#versions--support
+你同时可以从Modrinth平台下载最新的稳定版 [Modrinth](https://modrinth.com/plugin/advancedtech-slimefun)
+# 版本 & 获取支持
 
-# Contributing
-To Contribute to the Project, please read the [Contributing Guidelines](.github/CONTRIBUTING.md)
+https://github.com/PranavVerma-droid/AdvancedTech/wiki#版本支持
+
+# 贡献
+要为该项目做出贡献，请阅读 [Contributing Guidelines](.github/CONTRIBUTING.md)

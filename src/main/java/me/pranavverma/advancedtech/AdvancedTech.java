@@ -56,13 +56,13 @@ public class AdvancedTech extends JavaPlugin implements SlimefunAddon {
         boolean shouldDisable = false;
         if (version_control) {
             if (!PaperLib.isPaper()) {
-                log(String.valueOf(Level.SEVERE), "Advanced Tech only supports Paper and its forks (i.e. Airplane and Purpur)");
-                log(String.valueOf(Level.SEVERE), "These Versions are NOT Supported!");
+                log(String.valueOf(Level.SEVERE), "先进科技仅仅支持paper及其fork分支");
+                log(String.valueOf(Level.SEVERE), "你的版本不被支持!");
                 shouldDisable = false;
             }
             if (Slimefun.getMinecraftVersion().isBefore(MinecraftVersion.MINECRAFT_1_19)) {
-                log(String.valueOf(Level.SEVERE), "Advanced Tech is only supported on Minecraft 1.19 and above");
-                log(String.valueOf(Level.SEVERE), "There will be no support for older versions of Minecraft");
+                log(String.valueOf(Level.SEVERE), "先进科技仅允许运行在1.19及更高版本");
+                log(String.valueOf(Level.SEVERE), "他不会在旧版Minecraft获得支持");
                 shouldDisable = false;
             }
 
@@ -83,7 +83,7 @@ public class AdvancedTech extends JavaPlugin implements SlimefunAddon {
 
 
 
-        ItemStack advanced_tech_define = new CustomItemStack(PlayerHead.getItemStack(PlayerSkin.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I4NTg5ZTY3YTNhM2QxMmJmYzljOTgyMTBiMTAyYTM3MWQwNTIwNzk4YWU3MDBiMzYzMzVlOTlmNjkzMzc4ZCJ9fX0=")), "&4Advanced Tech", "The Most Advanced Tech in all of SF.", "&a> Click to open");
+        ItemStack advanced_tech_define = new CustomItemStack(PlayerHead.getItemStack(PlayerSkin.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I4NTg5ZTY3YTNhM2QxMmJmYzljOTgyMTBiMTAyYTM3MWQwNTIwNzk4YWU3MDBiMzYzMzVlOTlmNjkzMzc4ZCJ9fX0=")), "&4先进科技", "相比Slimefun有最先进的技术", "&a> 点击打开");
         NamespacedKey advanced_tech_id = new NamespacedKey(this, "advanced_tech");
         ItemGroup advanced_tech_category = new ItemGroup(advanced_tech_id, advanced_tech_define);
 
